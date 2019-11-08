@@ -6,4 +6,5 @@
 | 4 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](https://github.com/DeepDuke/Leetcode-Solution/blob/master/Algorithms/C++/4-median-of-two-sorted-arrays.cpp) | Hard | Array    |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](https://github.com/DeepDuke/Leetcode-Solution/blob/master/Algorithms/C++/11-container-with-most-water.cpp) | Medium |  Array   |
 |15 | [3Sum](https://leetcode.com/problems/3sum/) | [C++](https://github.com/DeepDuke/Leetcode-Solution/blob/master/Algorithms/C++/15-3sum.cpp) | Medium  | Array|
+| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](https://github.com/DeepDuke/Leetcode-Solution/blob/master/Algorithms/C++/16-3sum-closest.cpp)| Medium |Array|
 
