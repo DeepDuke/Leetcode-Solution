@@ -11,4 +11,4 @@
 | 26 |  [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](https://github.com/DeepDuke/Leetcode-Solution/blob/master/Algorithms/C++/26-remove-duplicates-from-sorted-array.cpp) | Easy | Array |
 | 27 | [Reomve Element](https://leetcode.com/problems/remove-element/) | [C++](https://github.com/DeepDuke/Leetcode-Solution/blob/master/Algorithms/C++/27-remove-element.cpp) | Easy | Array |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++](https://github.com/DeepDuke/Leetcode-Solution/blob/master/Algorithms/C++/31-next-permutation.cpp) | Medium | Array |
-
+|33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](https://github.com/DeepDuke/Leetcode-Solution/blob/master/Algorithms/C++/33-search-in-rotated-sorted-array.cpp) | Medium | Array |
