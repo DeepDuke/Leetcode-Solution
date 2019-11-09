@@ -1,5 +1,5 @@
 /*
-Method: two pointers, one points to the last unique element, 
+Method: two pointers, one points to the pos of the last unique element, 
 the other points to the current element.
 
 Time: O(n)
