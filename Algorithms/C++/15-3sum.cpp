@@ -77,6 +77,14 @@ private:
             for(int i = L; i <= R-k+1; i++){
                 // skip the duplication
                 if(i > L && nums[i] == nums[i-1]) continue;
+                // prune
+                int sum = 0;
+                for(int j = i; j <= i+k-1; j++) sum += nums[j];
+                if(sum > target) break;
+                sum = nums[i];
+                for(int j = R; j > R-k+1; j--) sum += nums[j];
+                if(sum < target) continue;
+                // convert into  k-1 scope problem 
                 vector<vector<int> > tmp = kSum(nums, i+1, R, k-1, target-nums[i]);
                 for(auto &v: tmp) v.insert(v.begin(), nums[i]);
                 ans.insert(ans.end(), tmp.begin(), tmp.end());
