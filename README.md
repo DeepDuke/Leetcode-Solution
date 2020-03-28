@@ -1,6 +1,6 @@
-## Leetcode Solution
+## Leetcode Solution :strawberry::strawberry::strawberry:
 
-|  #   |   Title  |  Solution  | Difficulty| Tag |
+| :strawberry: |   Title  |  Solution  | Difficulty| Tag |
 | ---- | ---- | ---- | ----| ----|
 |   1   |   [Two-Sum](https://leetcode.com/problems/two-sum/)   | [C++](https://github.com/DeepDuke/Leetcode-Solution/blob/master/Algorithms/C++/1-two-sum.cpp)     |   Easy  |   Array  |
 | 2 | [Add-Two-Numbers](https://leetcode.com/problems/add-two-numbers/)  | [C++](https://github.com/DeepDuke/Leetcode-Solution/blob/master/Algorithms/C++/2-add-two-numbers.cpp)  | Medium  |  Linked List |
