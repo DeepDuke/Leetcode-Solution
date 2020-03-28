@@ -1,7 +1,7 @@
 /*
 Dynamic Programming
-Time Complexity: O(n)
-Space Complexity: O(n) 
+Time Complexity: O(n^2)
+Space Complexity: O(n^2) 
 */
 class Solution {
 public:
