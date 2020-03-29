@@ -1,4 +1,4 @@
-## :strawberry::strawberry::strawberry:	Leetcode Solution 
+## :strawberry::strawberry::strawberry:	 Leetcode Solution 
 
 | :strawberry: |   Title  |  Solution  | Difficulty| Tag |
 | ---- | ---- | ---- | ----| ----|
