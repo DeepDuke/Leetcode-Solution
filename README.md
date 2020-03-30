@@ -8,7 +8,7 @@
 | 4 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](https://github.com/DeepDuke/Leetcode-Solution/blob/master/Algorithms/C++/4-median-of-two-sorted-arrays.cpp) | Hard | Array    |
 |  5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/solution/) | [C++](https://github.com/DeepDuke/Leetcode-Solution/blob/master/Algorithms/C++/5-longest-palindromic-substring.cpp) | Medium | Dynamic Programming |
 | 7 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](https://github.com/DeepDuke/Leetcode-Solution/blob/master/Algorithms/C++/7-reverse-integer.cpp) | Easy | Math |
-| 8 |[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](https://github.com/DeepDuke/Leetcode-Solution/blob/master/Algorithms/C++/8-string-to-integer-atoi.cpp) | Medium | String |
+| 8 |[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](Algorithms/C++/8-string-to-integer-atoi.cpp) | Medium | String |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](https://github.com/DeepDuke/Leetcode-Solution/blob/master/Algorithms/C++/11-container-with-most-water.cpp) | Medium |  Array   |
 |15 | [3Sum](https://leetcode.com/problems/3sum/) | [C++](https://github.com/DeepDuke/Leetcode-Solution/blob/master/Algorithms/C++/15-3sum.cpp) | Medium  | Array|
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](https://github.com/DeepDuke/Leetcode-Solution/blob/master/Algorithms/C++/16-3sum-closest.cpp)| Medium |Array|
