@@ -19,4 +19,5 @@
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++](Algorithms/C++/31-next-permutation.cpp) | Medium | Array |
 |33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](Algorithms/C++/33-search-in-rotated-sorted-array.cpp) | Medium | Array |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](Algorithms/C++/36-valid-sudoku.cpp) | Medium | Hash Table |
+| 458 |  [Poor Pigs](https://leetcode.com/problems/poor-pigs/)  |   [C++](Algorithms/C++/458-poor-pigs.cpp) | Hard | Math |
 
