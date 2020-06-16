@@ -12,6 +12,7 @@
 | 10 |[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++](Algorithms/C++/10-regular-expression-matching.cpp) | Hard | String |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](Algorithms/C++/11-container-with-most-water.cpp) | Medium |  Array   |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](Algorithms/C++/13-roman-to-integer.cpp) | Easy | Math |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](Algorithms/C++/14-longest-common-prefix.cpp) | Easy | String |
 |15 | [3Sum](https://leetcode.com/problems/3sum/) | [C++](Algorithms/C++/15-3sum.cpp) | Medium  | Array|
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](Algorithms/C++/16-3sum-closest.cpp)| Medium |Array|
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [C++](Algorithms/C++/18-4sum.cpp) | Medium| Array|
