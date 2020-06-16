@@ -17,6 +17,7 @@
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](Algorithms/C++/16-3sum-closest.cpp)| Medium |Array|
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](Algorithms/C++/17-letter-combinations-of-a-phone-number.cpp) | Medium |Recursion|
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [C++](Algorithms/C++/18-4sum.cpp) | Medium| Array|
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](Algorithms/C++/19-remove-Nth-node-from-end-of-list.cpp) | Medium | Linked List |
 | 26 |  [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](Algorithms/C++/26-remove-duplicates-from-sorted-array.cpp) | Easy | Array |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](Algorithms/C++/27-remove-element.cpp) | Easy | Array |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++](Algorithms/C++/31-next-permutation.cpp) | Medium | Array |
