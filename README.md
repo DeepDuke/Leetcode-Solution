@@ -15,6 +15,7 @@
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](Algorithms/C++/14-longest-common-prefix.cpp) | Easy | String |
 |15 | [3Sum](https://leetcode.com/problems/3sum/) | [C++](Algorithms/C++/15-3sum.cpp) | Medium  | Array|
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](Algorithms/C++/16-3sum-closest.cpp)| Medium |Array|
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](Algorithms/C++/17-letter-combinations-of-a-phone-number.cpp) | Medium |Recursion|
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [C++](Algorithms/C++/18-4sum.cpp) | Medium| Array|
 | 26 |  [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](Algorithms/C++/26-remove-duplicates-from-sorted-array.cpp) | Easy | Array |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](Algorithms/C++/27-remove-element.cpp) | Easy | Array |
