@@ -18,6 +18,9 @@
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](Algorithms/C++/17-letter-combinations-of-a-phone-number.cpp) | Medium |Recursion|
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [C++](Algorithms/C++/18-4sum.cpp) | Medium| Array|
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](Algorithms/C++/19-remove-Nth-node-from-end-of-list.cpp) | Medium | Linked List |
+| 20 |  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](Algorithms/C++/20-valid-parentheses.cpp)  | Easy |  Stack  |
+|  21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)   | [C++](Algorithms/C++/21-merge-two-sorted-lists.cpp)   |  Easy  |  Linked List  |
+|  22  |  [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C++](Algorithms/C++/22-generate-parentheses.cpp)   |  Medium  |  DFS   |  
 | 26 |  [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](Algorithms/C++/26-remove-duplicates-from-sorted-array.cpp) | Easy | Array |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](Algorithms/C++/27-remove-element.cpp) | Easy | Array |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++](Algorithms/C++/31-next-permutation.cpp) | Medium | Array |
