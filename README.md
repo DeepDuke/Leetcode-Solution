@@ -24,7 +24,17 @@
 | 26 |  [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](Algorithms/C++/26-remove-duplicates-from-sorted-array.cpp) | Easy | Array |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](Algorithms/C++/27-remove-element.cpp) | Easy | Array |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++](Algorithms/C++/31-next-permutation.cpp) | Medium | Array |
-|33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](Algorithms/C++/33-search-in-rotated-sorted-array.cpp) | Medium | Array |
+| 33 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](Algorithms/C++/33-search-in-rotated-sorted-array.cpp) | Medium | Array |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [C++](Algorithms/C++/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.cpp) | Medium | Array, Binary Search |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](Algorithms/C++/36-valid-sudoku.cpp) | Medium | Hash Table |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [C++](Algorithms/C++/39-Combination-Sum.cpp) | Medium | Array, Backtracking |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](Algorithms/C++/70-Climbing-Stairs.cpp) | Easy | Math, Dynamic Programming, Memorization |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](Algorithms/C++/94-Binary-Tree-Inorder-Traversal.cpp) | Easy | Depth-First-Search |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](Algorithms/C++/226-Invert-Binary-Tree.cpp) | Easy | Depth-First-Search |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [C++](Algorithms/C++/338-Counting-Bits.cpp) | Easy | Bit Manipulation |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++](Algorithms/C++/509-Fibonacci-Number.cpp) | Easy | Dynamic Programming |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C++](Algorithms/C++/543-Diameter-of-Binary-Tree.cpp) | Easy |Depth-First-Search |
 | 458 |  [Poor Pigs](https://leetcode.com/problems/poor-pigs/)  |   [C++](Algorithms/C++/458-poor-pigs.cpp) | Hard | Math |
-
+| 617 |  [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)  |   [C++](Algorithms/C++/617-Merge-Two-Binary-Trees.cpp) | Easy | Depth-First-Search |
+| 746 |  [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)  |   [C++](Algorithms/C++/746-Min-Cost-Climbing-Stairs.cpp) | Easy |  Dynamic Programming |
+| 1137 |  [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)  |   [C++](Algorithms/C++/1137-N-th-Tribonacci-Number.cpp) | Easy |  Dynamic Programming |
