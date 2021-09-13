@@ -30,11 +30,14 @@
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [C++](Algorithms/C++/39-Combination-Sum.cpp) | Medium | Array, Backtracking |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](Algorithms/C++/70-Climbing-Stairs.cpp) | Easy | Math, Dynamic Programming, Memorization |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](Algorithms/C++/94-Binary-Tree-Inorder-Traversal.cpp) | Easy | Depth-First-Search |
+| 198 | [House and Robber](https://leetcode.com/problems/house-robber/)  |   [C++](Algorithms/C++/198-house-robber.cpp) | Medium |  Dynamic Programming |
+| 213 | [House and Robber](https://leetcode.com/problems/house-robber-ii/)  |   [C++](Algorithms/C++/213-house-robber-ii.cpp) | Medium |  Dynamic Programming |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](Algorithms/C++/226-Invert-Binary-Tree.cpp) | Easy | Depth-First-Search |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [C++](Algorithms/C++/338-Counting-Bits.cpp) | Easy | Bit Manipulation |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++](Algorithms/C++/509-Fibonacci-Number.cpp) | Easy | Dynamic Programming |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C++](Algorithms/C++/543-Diameter-of-Binary-Tree.cpp) | Easy |Depth-First-Search |
 | 458 |  [Poor Pigs](https://leetcode.com/problems/poor-pigs/)  |   [C++](Algorithms/C++/458-poor-pigs.cpp) | Hard | Math |
 | 617 |  [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)  |   [C++](Algorithms/C++/617-Merge-Two-Binary-Trees.cpp) | Easy | Depth-First-Search |
+| 740 |  [Delete and Earn](https://leetcode.com/problems/delete-and-earn/)  |   [C++](Algorithms/C++/740-Delete-and-Earn.cpp) | Medium |  Dynamic Programming |
 | 746 |  [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)  |   [C++](Algorithms/C++/746-Min-Cost-Climbing-Stairs.cpp) | Easy |  Dynamic Programming |
 | 1137 |  [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)  |   [C++](Algorithms/C++/1137-N-th-Tribonacci-Number.cpp) | Easy |  Dynamic Programming |
